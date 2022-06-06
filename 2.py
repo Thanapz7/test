@@ -9,5 +9,8 @@ area = area(x,y)
 
 print(area)
 
+print("P")
+
+
 
 
